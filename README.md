@@ -1,6 +1,9 @@
 ## What is this repo or project?
 A constructor Word Guess using advanced javaScript and constructors. 
 
+## Video of Gameplay
+https://drive.google.com/file/d/1CXX7mAFoTFxFTWljmZC2IjLgA9adtbmP/view?usp=sharing
+
 ## How does it work?
 1. The program chooses a random word from a generated word bank. The word bank was created using the NPM Datamuse API. I selected a query based on a "music" search with a 40 word returned limit. Then from these 40 words, 1 is randomly chosen.
 2. From the command line a player enters node index.js and the Hangman game will begin. The player is shown that they have 10 attempts to guess the word.
